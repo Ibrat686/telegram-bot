@@ -11,8 +11,8 @@ from telegram.ext import (
 )
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН"
-PUBLIC_URL = "https://твой-домен.onrender.com"  # потом заменишь
+BOT_TOKEN = "8429666405:AAE1E9uCsO1kckVPlGYi7XDH75aCqi8VKvo"
+PUBLIC_URL = "https://telegram-bot-u5fe.onrender.com"  # потом заменишь
 
 # ================= FLASK =================
 app = Flask(__name__)
